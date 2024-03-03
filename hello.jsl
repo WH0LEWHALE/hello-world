@@ -1,0 +1,10 @@
+package hks;
+import System.*;
+
+public class halo
+{
+  public static void main()
+  {
+    Console.WriteLine("Hello World!");
+  }
+}
