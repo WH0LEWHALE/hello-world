@@ -1,0 +1,2 @@
+let doc = Roff::new().text(vec![roman("hello, world")]).render();
+assert!(doc.ends_with("hello, world\n"));
